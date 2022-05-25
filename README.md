@@ -13,4 +13,11 @@ Developing a game for testing reaction time through pressing buttons.
 * If you don't pressing button 3 in 2.5 sec as the lights closed,you would fail the game. 
 
 ## Result
+![](https://i.imgur.com/QxQu2zs.jpg)
 https://youtu.be/v21Af0oOx4I
+
+## What you need to complete project
+* Hardware
+  -  Arduino ADK Mega2560 with DMA Arduino ADK
+* library
+  - 
