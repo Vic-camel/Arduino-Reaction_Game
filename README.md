@@ -14,7 +14,7 @@ Developing a game for testing reaction time through pressing buttons.
 
 ## Result
 ![](https://i.imgur.com/QxQu2zs.jpg)
-https://youtu.be/v21Af0oOx4I
+Video:https://youtu.be/v21Af0oOx4I
 
 ## What you need to complete project
 * Hardware
