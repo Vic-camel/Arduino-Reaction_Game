@@ -9,6 +9,7 @@ Developing a game for testing reaction time through pressing buttons.
 * If lights are close,you have to press button 1 in the red rectangle on the photo.
 * Then screen shows reaction time and goes to next level. 
 * There are three levels in the game,and time between levels would get more and more shorter.
+* When you compelete three levels,you win the game.
 * If you don't pressing button 3 in 2.5 sec as the lights closed,you would fail the game. 
 
 ## Result
